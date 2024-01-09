@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c566e23.css",
+    "main.js": "/static/js/main.bb8b4183.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blog.png": "/static/media/blog.7a753ec8eb697633d60d.png",
+    "static/media/multiplayer_lobby.png": "/static/media/multiplayer_lobby.6e2a948c5b34ae08d6f2.png",
+    "static/media/sggs.png": "/static/media/sggs.0feddfd29cfd767429ae.png",
+    "static/media/Swapnil_Deshmukh.pdf": "/static/media/Swapnil_Deshmukh.7195a7625aa91296b88a.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/dashboard.png": "/static/media/dashboard.68254a4697443dff4758.png",
+    "static/media/colorpicker.png": "/static/media/colorpicker.b800d72b837312ebb751.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/githubdata.png": "/static/media/githubdata.620b5e32f5a07d7e4123.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.7c566e23.css.map": "/static/css/main.7c566e23.css.map",
+    "main.bb8b4183.js.map": "/static/js/main.bb8b4183.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c566e23.css",
+    "static/js/main.bb8b4183.js"
+  ]
+}
